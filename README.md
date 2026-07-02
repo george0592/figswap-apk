@@ -1,4 +1,4 @@
-﻿# FigSwap APK
+# FigSwap APK
 
 Descarga recomendada para Android ARM64 (Samsung y la mayoria de telefonos actuales):
 
